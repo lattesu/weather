@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Weather_Webservice"
+  id="myeclipse.1454570072974"
+  context-root="/Weather_Webservice"
+  j2ee-spec="5.0"
+  archive="Weather_Webservice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
